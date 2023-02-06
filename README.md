@@ -18,6 +18,9 @@
 <a href="https://t.me/Tngtarov">
     <img src="img/telegram.png" alt="instagram" width="30px" height="height" style="padding-right: 5px">
 </a> 
+<a href="https://www.linkedin.com/in/nurzhantng">
+    <img src="img/linkedin.png" alt="instagram" width="30px" height="height" style="padding-right: 5px">
+</a> 
 
 ##### If you want to **contact** me, it's better to do it via **telegram**
 
