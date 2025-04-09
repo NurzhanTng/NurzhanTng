@@ -21,21 +21,10 @@
 ### 💼 Технический стек
 
 **Frontend:**  
-![React](https://img.shields.io/badge/react-555.svg?style=for-the-badge&logo=react) 
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js) 
-![Typescript](https://img.shields.io/badge/typescript-0b208a.svg?style=for-the-badge&logo=typescript)  
-![Redux](https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux) 
-![Tailwind](https://img.shields.io/badge/tailwindcss-411175.svg?style=for-the-badge&logo=tailwindcss)  
-![Framer Motion](https://img.shields.io/badge/framer--motion-E10098?style=for-the-badge&logo=framer)
+![React](https://img.shields.io/badge/react-555.svg?style=for-the-badge&logo=react) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js) ![Typescript](https://img.shields.io/badge/typescript-0b208a.svg?style=for-the-badge&logo=typescript) ![Redux](https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux) ![Tailwind](https://img.shields.io/badge/tailwindcss-411175.svg?style=for-the-badge&logo=tailwindcss)  ![Framer Motion](https://img.shields.io/badge/framer--motion-E10098?style=for-the-badge&logo=framer)
 
 **Backend:**  
-![NestJS](https://img.shields.io/badge/nestjs-E0234E.svg?style=for-the-badge&logo=nestjs)  
-![Node.js](https://img.shields.io/badge/node.js-0a3b45.svg?style=for-the-badge&logo=nodedotjs)  
-![Django](https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django)  
-![PostgreSQL](https://img.shields.io/badge/postgresql-2f265c.svg?style=for-the-badge&logo=postgresql)  
-![Kafka](https://img.shields.io/badge/kafka-231F20.svg?style=for-the-badge&logo=apachekafka)  
-![Redis](https://img.shields.io/badge/redis-a62118.svg?style=for-the-badge&logo=redis)  
-![Docker](https://img.shields.io/badge/docker-333.svg?style=for-the-badge&logo=docker)
+![NestJS](https://img.shields.io/badge/nestjs-E0234E.svg?style=for-the-badge&logo=nestjs)  ![Node.js](https://img.shields.io/badge/node.js-0a3b45.svg?style=for-the-badge&logo=nodedotjs)  ![Django](https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django)  ![PostgreSQL](https://img.shields.io/badge/postgresql-2f265c.svg?style=for-the-badge&logo=postgresql)  ![Kafka](https://img.shields.io/badge/kafka-231F20.svg?style=for-the-badge&logo=apachekafka)  ![Redis](https://img.shields.io/badge/redis-a62118.svg?style=for-the-badge&logo=redis)  ![Docker](https://img.shields.io/badge/docker-333.svg?style=for-the-badge&logo=docker)
 
 **Другое:**  
 Nginx, Git, Jest, WebSocket, REST, SOAP, MVC, FSD
