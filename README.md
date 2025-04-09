@@ -41,7 +41,7 @@ _2021 – 2025_
 ### 👨‍💻 Опыт работы
 
 **Системы Автоматизации** (12.2024 - по настоящее время)
-> Разрабатываю инструменты автоматизации бизнес-процессов с использованием AI-платформ (n8n, Make, OpenAI), интеграцией внешних API и созданием no-code/low-code решений для клиентов.
+> Разрабатываю инструменты автоматизации бизнес-процессов с использованием AI-платформ  
 Технологии: n8n, Make, OpenAI API, Telegram API, Google Sheets API, Webhooks, Python, PostgreSQL
 
 **RESTOLAND Startup** (12.2023 – 12.2024)  
@@ -61,10 +61,10 @@ _2021 – 2025_
 ### 🤝 Связаться со мной:
 
 <a href="https://www.instagram.com/nurzhan.rustamuly/">
-    <img src="img/instagram.png" alt="instagram" width="30px" style="padding-right: 5px">
+    <img src="img/instagram.png" alt="instagram" width="30px" style="padding-right: 10px">
 </a> 
 <a href="https://t.me/Tngtarov">
-    <img src="img/telegram.png" alt="telegram" width="30px" style="padding-right: 5px">
+    <img src="img/telegram.png" alt="telegram" width="30px" style="padding-right: 10px">
 </a> 
 <a href="https://www.linkedin.com/in/nurzhantng">
     <img src="img/linkedin.png" alt="linkedin" width="30px" style="padding-right: 5px">
